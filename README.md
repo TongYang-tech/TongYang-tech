@@ -3,10 +3,10 @@
 I'm an aspiring software engineer who is passionate about developing software, exploring new technologies, and broaden my programming skills.
 
 **About me (2023)**
-* I am interested in frontend, backend, fullstack, data science, and mobile development. 
-* I graduated from University of Wisconsin - Madison in computer science, minoring in data science.
-* I have experience in python for AI development and data analytics. 
-* I am learning javascript to focus on web development and frameworks.
+* Career interests: frontend, backend, fullstack, data science, and mobile development. 
+* University of Wisconsin - Madison in computer science, minoring in data science.
+* Experience in python for AI development and data analytics. 
+* Learning javascript to focus on web development and frameworks.
 
 Checkout my [LinkedIn](https://www.linkedin.com/in/tongyang20/) 
 
