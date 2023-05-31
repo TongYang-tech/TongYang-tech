@@ -3,7 +3,7 @@
 I'm an aspiring software engineer who is passionate about developing software, exploring new technologies, and broaden my programming skills.
 
 **About me (2023)**
-* Career interests: frontend engineering and mobile development. 
+* Career interests: frontend/backend/fullstack/machine-learning/data/mobile/devops. 
 * University of Wisconsin - Madison in computer science, minoring in data science.
 * Experience in python for AI development and data analytics. 
 * Learning javascript to focus on web development and frameworks.
